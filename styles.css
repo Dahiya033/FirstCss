@@ -1,0 +1,126 @@
+.top{
+    background-color: #e4f9f5;
+    margin-top:0px;
+}
+.bottom-cloud{
+    position:relative;
+    margin-right:900px;
+    height:150px;
+    width:200px;
+}
+
+.top-cloud{
+    margin-top:50px;
+    margin-left:700px;
+    height:150px;
+    width:200px;
+}
+
+h1{
+    margin:50px auto 0 auto;
+    font-family: sacramento;
+    font-size: 100px;
+}
+
+body{
+    margin:0px;
+    text-align: center;
+    font-family: Merriweather, Helvetica, sans-serif;
+    font-size: 200%;
+}
+.mypic{
+    height:300px;
+    width:300px;
+    margin:50px auto;
+    border-radius: 10em;
+}
+.intro1{
+    font-size: 0.55em;
+    width:35%;
+    margin:auto;
+}
+.skills{
+    margin-top:60px;
+    position: relative;
+}
+.skills-img{
+    position:absolute;
+    height:130%;
+    width:15%;
+    border-radius: 10em;
+    left:17%;
+    /*float:left;
+    margin-left:7.7em;*/
+}
+.skills-heading{
+    width:40%;
+    font-size:0.65em;
+    margin: 30px auto;
+    color:rgb(32, 184, 171);
+}
+.skills1{
+    width:50%;
+    font-size: 0.5em;
+    margin:auto;
+}
+.skills2{
+    width:60%;
+    margin-left:20%;
+    height:40%;
+    
+}
+.hori{
+    margin:8% auto;
+    width:5%;
+    border-style: dotted none none none;
+    border-width: 5px;
+}
+.hobbies{
+    position:relative;
+    margin-bottom: 60px;
+}
+.cri-img{
+    height:130%;
+    width:15%;
+    position:absolute;
+    right:17%;
+    border-radius: 10em;
+}
+.hobby{
+    width:60%;
+    position:relative;
+    left:35%;
+    
+}
+.hobbies-heading{
+    font-size: 0.65em;
+    color:rgb(32, 184, 171);
+    width:40%;
+}
+.hobbies1{
+    width:50%;
+    font-size: 0.5em;
+    
+}
+.h-line{
+    position:absolute;
+    width:100%;
+}
+.bottom{
+    background-color: rgb(32, 184, 171);
+    margin:80px auto none;
+    font-size:0.4em;
+    height:80px;
+    padding-top:20px;
+}
+.links{
+    word-spacing: 10px;
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color:rgba(221, 19, 80, 0.979);
+}
+    
